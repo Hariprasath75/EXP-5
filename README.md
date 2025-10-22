@@ -1,4 +1,4 @@
-# EXP-5
+<img width="751" height="616" alt="image" src="https://github.com/user-attachments/assets/61ff4a3e-64ae-4b50-ac0e-1b4e7dd36d08" /># EXP-5
 EXP. NO. 5. 		ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 AIM
@@ -29,9 +29,19 @@ PROCEDURE:
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
 
+<img width="751" height="616" alt="image" src="https://github.com/user-attachments/assets/e1fc3340-7cd9-48da-b67e-18fe6fa52253" />
+
+<img width="811" height="398" alt="image" src="https://github.com/user-attachments/assets/007683e9-c8b9-45e8-bc50-466f59247adf" />
+
+
 REGULATION CHARACTERISTICS:
 
+<img width="777" height="552" alt="image" src="https://github.com/user-attachments/assets/d4ff8e7b-4452-46dd-8525-c92661d8fb52" />
+
+
 V-I & REGULATION CHARACTERISTICS:
+
+<img width="885" height="528" alt="image" src="https://github.com/user-attachments/assets/d8f2c8f4-12ce-4f14-8659-d4aa5c006cee" />
 
 PRECAUTIONS:
 
